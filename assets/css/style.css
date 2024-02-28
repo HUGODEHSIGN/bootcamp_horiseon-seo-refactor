@@ -51,7 +51,7 @@ a {
 
 /* styles to let hero take up full page width */
 .hero {
-  height: 800px;
+  /* height: 800px; */
   width: 100%;
   margin-bottom: 25px;
 }
